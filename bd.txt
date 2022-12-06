@@ -1,0 +1,6 @@
+
+ ID user: 719587708, Input: 3+4-2, Result: 5
+ ID user: 719587708, Input: 3+9+2, Result: 14
+ ID user: 719587708, Input: 3*8+4/2-1, Result: 25.0
+ ID user: 719587708, Input: 3+3, Result: 6
+ ID user: 719587708, Input: 4-1, Result: 3
